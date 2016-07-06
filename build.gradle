@@ -20,7 +20,7 @@ plugins {
     id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
 */
-version = "0.1.001"
+version = "[1.9.4]0.1.001"
 group= "com.techmafia.mcmods" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "mrfusion"
 
