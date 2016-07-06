@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "mrfusion",
+        "name": "Mr Fusion",
+        "description": "RF from EMC and junk",
+        "version": "0.1.001",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["mengy007"],
+        "credits": "FML team, CoFH team, MBE team, BigReactors team and ProjectE team!",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [ "MinecraftForge,ProjectE" ]
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4.iml" filepath="$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_api.iml" filepath="$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_api.iml" group="MrFusion-1.9.4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_main.iml" group="MrFusion-1.9.4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MrFusion-1.9.4_test.iml" group="MrFusion-1.9.4" />
+    </modules>
+  </component>
+</project>
